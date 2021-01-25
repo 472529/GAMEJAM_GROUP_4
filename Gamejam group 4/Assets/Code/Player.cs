@@ -11,6 +11,8 @@ public class Player : MonoBehaviour
     public float maxHeight;
     public float minHeight;
 
+    public int health = 3;
+
     // Update is called once per frame
     void Update()
     {
